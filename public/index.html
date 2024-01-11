@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to my Blog!</h1>
+        <h2>Feel free to leave me any kind of message</h2>
+    </header>
+    <main>
+        <form onsubmit="return false">
+            <label>Name:<input class="inputName" type="text"></label>
+            <label>Comment:<input class="inputComment" type="text"></label>
+            <input class="submitbutton" type="submit" value="Add comment" onclick="addNewComment()">
+        </form>
+        <div class="commentContainer">
+
+        </div>
+    </main>
+    <script src="./assets/js/guestbook_function.js"></script>
+    <script src="./assets/js/newGuestbookEntry_function.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Robert",
+    "content": {
+      "text": "interesting blog!!!",
+      "date": "202401100100"
+    }
+  },
+  {
+    "name": "Marta",
+    "content": {
+      "text": "Hey, what's up?",
+      "date": "202401090100"
+    }
+  },
+  {
+    "name": "Max",
+    "content": {
+      "text": "Long time no see",
+      "date": "202401080100"
+    }
+  },
+  {
+    "name": "Rudolf",
+    "content": {
+      "text": "Free till christmas eve again.",
+      "date": "202312250100"
+    }
+  },
+  {
+    "name": "Obi",
+    "content": {
+      "text": "Hello there!",
+      "date": "200205161800"
+    }
+  }
+]
